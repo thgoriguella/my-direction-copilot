@@ -1,3 +1,5 @@
+AJUSTADO O MODELO DOS AGENTES QUE FOI PASSADO EM CURSO!
+
 Exmplos de modos Copiloto (Ask, Edit, Plan, Agent e Study)
 dio/me IA Prompt
 
