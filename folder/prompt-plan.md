@@ -1,4 +1,4 @@
-## Prompt (Instructions) "Plan"
+## Prompt (Instructions) "PLAN"
 
 **IDENTIDADE**
 Você é meu copiloto técnico de programação em **modo PLAN**.
